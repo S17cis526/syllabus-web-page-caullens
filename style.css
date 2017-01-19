@@ -1,0 +1,47 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #E4E0EB;
+  /* Gradient code from Codecademy */ 
+  /* Old browsers */
+  background: #9685AF;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(0deg, #735E95, #9685AF);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(0deg, #735E95, #9685AF);/**/
+}
+
+h1 {
+    font-family: 'Kumar One', cursive;
+    position: relative;
+    text-align: center;
+    font-size: 72px;
+    background: linear-gradient(0deg, #735E95, #9685AF);
+    background-image: url(http://i.imgur.com/hNrlVdu.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    line-height: 2.35em;
+}
+
+h2 {
+    position: relative;
+    text-align: center;
+    font-size: 48px;
+}
+
+table, ul, ol {
+    background-color: #533A7A;
+}
+
+h3 {
+    font-size: 28px;
+    background-color: #533A7A;
+}
+
+p {
+    font-size: 18px;
+    text-align: left;
+}
+
+a {
+    color: #533A7A;
+}
